@@ -4,7 +4,7 @@ I'm Miguel Elias, Configuration and Change Manager and Software Engineer. Gradua
 
 ____
 
-Além do meu trabalho prático, tenho uma verdadeira paixão pelo ensino. Acredito que compartilhar conhecimento é o caminho para multiplicar sabedoria.
+In addition to my practical work, I have a real passion for teaching. I believe that sharing knowledge is the way to multiply wisdom.
 
 ____
 
