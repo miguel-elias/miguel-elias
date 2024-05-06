@@ -3,7 +3,9 @@
 I'm Miguel Elias, Configuration and Change Manager and Software Engineer. Graduated in Information Systems and postgraduate in Cloud Computing Architecture, I have more than 10 years of experience in IT.
 
 ____
+Além do meu trabalho prático, tenho uma verdadeira paixão pelo ensino. Acredito que compartilhar conhecimento é o caminho para multiplicar sabedoria.
 
+____
 
 ## ⚡ Technologies
 
@@ -13,7 +15,8 @@ Backend:
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
 ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
 ![Quarkus](https://img.shields.io/badge/-Quarkus-black?style=flat-square&logo=Quarkus)
-![Node.JS](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=Node.js)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
 
 Frontend:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
@@ -23,7 +26,8 @@ Frontend:
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular)
-![Angular](https://img.shields.io/badge/-React-black?style=flat-square&logo=React)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 
 Database:
 ![Microsoft SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
@@ -33,7 +37,7 @@ Cloud:
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white)
 ![Oracle Cloud](https://img.shields.io/badge/Oracle%20Cloud-F80000?style=flat-square&logo=oracle&logoColor=white)
-![Oracle Cloud](https://img.shields.io/badge/-aws.amazon.com-black?style=flat-square&logo=aws.amazon.com&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 Tools:
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
