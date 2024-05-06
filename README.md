@@ -4,13 +4,6 @@ I'm Miguel Elias, Configuration and Change Manager and Software Engineer. Gradua
 
 ____
 
-### 📝 Recent Articles
--
-____
-
-### 📹 Recent Videos on YouTube
-- 
-____
 
 ## ⚡ Technologies
 
