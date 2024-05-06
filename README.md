@@ -2,15 +2,10 @@
 
 I'm Miguel Elias, Configuration and Change Manager and Software Engineer. Graduated in Information Systems and postgraduate in Cloud Computing Architecture, I have more than 10 years of experience in IT.
 
-I love contributing to the community with [blog posts](http://miguel), [videos](http://youtube.ccom), and [books](). 
-
-
-
 ____
 
 ### 📝 Recent Articles
 -
-
 ____
 
 ### 📹 Recent Videos on YouTube
