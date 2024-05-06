@@ -19,7 +19,7 @@ These are some of the technologies and tools that I work with:
 Backend: 
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
 ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
-![NodeJS](https://img.shields.io/badge/-NodeJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Node.JS](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=Node.js)
 ![Quarkus](https://img.shields.io/badge/-Quarkus-black?style=flat-square&logo=Quarkus)
 
 Frontend:
