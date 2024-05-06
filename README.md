@@ -20,7 +20,7 @@ Backend:
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
 ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/-NodeJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![Quarkus](https://img.shields.io/badge/-Quarkus-E0234E?style=flat-square&logo=quarkus.iologoColor=white)
+![Quarkus](https://img.shields.io/badge/-Quarkus-black?style=flat-square&logo=Quarkus)
 
 Frontend:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
