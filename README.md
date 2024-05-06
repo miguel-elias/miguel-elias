@@ -33,7 +33,7 @@ Cloud:
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white)
 ![Oracle Cloud](https://img.shields.io/badge/Oracle%20Cloud-F80000?style=flat-square&logo=oracle&logoColor=white)
-![Oracle Cloud](https://img.shields.io/badge/-aws.amazon.com-black?style=flat-square&logo=aws.amazon.com&logoColor=white
+![Oracle Cloud](https://img.shields.io/badge/-aws.amazon.com-black?style=flat-square&logo=aws.amazon.com&logoColor=white)
 
 Tools:
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
